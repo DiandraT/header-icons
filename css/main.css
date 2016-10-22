@@ -18,7 +18,7 @@ h1 {
   font-size: 2rem;
   color: #fff;
   text-align: center;
-  margin-top: 0.3rem;
+  margin-top: .3rem;
 }
 
 .wrapper {
@@ -56,10 +56,9 @@ nav li {
   width: 30%;
 }
 
-
 li a {
-  padding: 0.4rem 0;
-  padding-bottom: 0.3rem;
+  padding: .4rem 0;
+  padding-bottom: .3rem;
 }
 
 li a:hover {
